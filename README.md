@@ -58,6 +58,8 @@
 ![3](https://github.com/user-attachments/assets/6154ed9c-0628-46b6-b6a3-2e79bb40793a)
 ![275325977-3838ed2b-bacb-4e32-b717-5ee14d43db62](https://github.com/user-attachments/assets/48a291a7-c1de-49f0-94ca-7e2bbb53b8a8)
 <br>
+<br>
+<br>
 
 ## Result: 
  Thus the simulation on the Preprocessing in additive manufacturing is completed.
